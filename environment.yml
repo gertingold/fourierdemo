@@ -1,0 +1,4 @@
+name: fourierdemo
+dependencies:
+- numpy
+- matplotlib
